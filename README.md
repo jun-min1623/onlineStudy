@@ -44,3 +44,7 @@ http://www.yes24.com/Product/Goods/70893433 )
 ### 추가 고려사항
 * 화면 공유 -> 전부 실시간으로 받으면 문제. 다른 방법으로 고민. 현재는 10분씩 체크하여 open ai 도 써보고.. 이것저것 써보기
 * webRtc 사용 고려중. vue3 에는 npm webrtc를 지원하는데, 
+
+## Git rules.
+* main, dev, branches 로 구성. 
+* commit 최소단위
