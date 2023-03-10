@@ -24,4 +24,18 @@ http://www.yes24.com/Product/Goods/70893433 )
 1. 환경설정
  * local 에 도커, kubernetes, vue cli 설치
  * 깃헙 레포 연동
-2.
+ 
+2. Db 설계
+ * schema, data model 설계
+ * 간단한 api 정도는 설계해봐도 괜찮을듯 싶다
+
+3.docker 설정
+ * 각 컴포넌트 설정
+ * hub 나 ecr 에 이미지 빌드/푸쉬해보기
+
+4. 쿠버네티스 배포 manifest 만들기
+5. 배포 설정
+ * 쿠버네티스 클러스터 설정, 네트워크 세팅
+
+6. 깃헙 액션
+7. 
