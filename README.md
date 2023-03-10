@@ -21,6 +21,7 @@ http://www.yes24.com/Product/Goods/70893433 )
  * Front 는 익숙한 vue로!
  * Nginx 사용
 
+### 프로젝트 단계
 1. 환경설정
  * local 에 도커, kubernetes, vue cli 설치
  * 깃헙 레포 연동
@@ -38,4 +39,4 @@ http://www.yes24.com/Product/Goods/70893433 )
  * 쿠버네티스 클러스터 설정, 네트워크 세팅
 
 6. 깃헙 액션
-7. 
+7. 테스트
